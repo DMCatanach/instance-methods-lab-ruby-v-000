@@ -5,7 +5,7 @@ class Dog
   end
 
   def sit
-    #code
+    puts "The Dog is sitting"
   end
-  
+
 end
