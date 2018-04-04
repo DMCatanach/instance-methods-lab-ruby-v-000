@@ -1,11 +1,11 @@
 class Dog
 
   def bark
-    #code
+    puts "Woof!"
   end
 
-  def sit 
-    #code 
-  end 
+  def sit
+    #code
+  end
   
 end
