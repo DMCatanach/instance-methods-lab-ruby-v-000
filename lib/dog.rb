@@ -1,6 +1,10 @@
 class Dog
 
-  def bark 
+  def bark
+    #code
+  end
+
+  def sit 
     #code 
   end 
   
