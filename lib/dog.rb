@@ -1,3 +1,7 @@
-class Dog 
-  #code 
-end 
+class Dog
+
+  def bark 
+    #code 
+  end 
+  
+end
